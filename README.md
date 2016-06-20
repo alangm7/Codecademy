@@ -1,4 +1,4 @@
 # Codecademy Python course
-Hi! My name is Alan García, I am currently studying the program Codecademy, in this I will be putting the final repository each test codes in order to later improve.
+Hi! My name is Alan García Mendoza, I am currently enrolled in the Codecademy program, in this repository'll be putting the finishing codes of each test for the purpose of later improve.
 
 Finals projects in codecademy.
